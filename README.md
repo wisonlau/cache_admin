@@ -5,10 +5,9 @@ Redis Admin是一个Redis管理平台，主要用于方便查看Key信息。
 
 如果您有好的建议或需求欢迎私信
 
+账号和密码一样
+
 ## 截图
-
-![](https://gitee.com/careyjike_173/redis_web_client/raw/master/static/img/1.png)
-
 
 ![](https://gitee.com/careyjike_173/redis_web_client/raw/master/static/img/2.png)
 
